@@ -6,6 +6,9 @@
 ## SSH port
 2200
 
+## Grader user password
+grader2015
+
 ## Website URL
 [Catalog App](http://ec2-52-26-106-90.us-west-2.compute.amazonaws.com)
 
